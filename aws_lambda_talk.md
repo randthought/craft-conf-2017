@@ -3,9 +3,9 @@ AWS Lambda serverless
 
 event -> function -> services
 
-Nearly all services of aws trigger a lambda.
+Nearly all services of AWS trigger a lambda.
 - Bring your own code
-  - Node, Java, Python, .NET
+- Node, Java, Python, .NET
 - Flexible use
 - Simple resource model
 - Flexible authorization
