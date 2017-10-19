@@ -22,3 +22,10 @@ Test of empathy: Reading the mind in the eyes.
 Características de buenos tests:
 - Validity es testear que el test testea lo que tiene que testear
 - Re-test reliability: probar que el test da los mismo resultados en un período de tiempo, dos semanas, un mes, ...
+
+
+Qué es psicological safety?
+
+- Es esa base que debe de haber en un equipo para estar equilibrado, que se respete el turno de palabra, las ideas, todos se sientan cómdos dentro del equipo y los debates y diferencias puedan darse sin llegar a un conflicto.
+
+- Hay juegos peligrosos como el (blame game) "y tu más", echar la culpa al de al lado,  
