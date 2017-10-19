@@ -16,5 +16,19 @@ La inteligencia colectiva esta relacionada con:
   - Equilibrio en la toma de turnos de conversación - Equality in conversational turn-taking (Psychological Safety - Salud psicológica)
   - Diversidad de género
 
+Tests
+--------
+
+- Test of empathy: Reading the mind in the eyes.
+
+  ![test_empathy_1](test_empathy_1.png)
+
+# (Tests para el turn taking no decir el objetivo, presentarles los disintos tests y ver como se comportan si hablan entre ellos a mitad de tests hacer comentario sobre lo que se esperaba y ver si mejoran en los tiempos. Habría que conometrar los tiempos de participación de cada uno.)
+
+- Tests for turn-taking (aquí)
+
+
+Desarrollar más la idea
+-----------------------
 
 - Hay juegos peligrosos como el (blame game) "y tu más", echar la culpa al de al lado.
