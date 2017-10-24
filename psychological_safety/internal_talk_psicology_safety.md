@@ -5,7 +5,7 @@
 "Safety. The idea that teams and individuals need safety to be able to collaborate"
 
 Countinuos delivery = continuos colaboration
--> Psycology safety. The act of feeling the protection of people the safety people to feel brave and to learn in any environment but the more we use this practise the more conflic we create between teams.
+-> Psycology safety. The act of feeling the protection of people, the safety people to feel brave and to learn in any environment but the more we use this practise the more conflic we create between teams.
 
 Leader could improve psicological safety by: Participatory management or Inclusive management
 Also A clear team structure where members understand their role on the team and Strong relationships between cohesive team members is important to achieve it.
@@ -43,4 +43,3 @@ Improves likelihood that an attempted process innovation will be successful
 - Google did a large study about how to build nice teams and it concluded psicological safety is very important to achieve it. On one hand it comes up the safety in a team is important because it makes the team dynamic, but a lot of creative work could break bad.
 "The news gets worse from there. According to a 2009 paper published in Psychological Science, when one individual feels safe enough to be brazenly unethical, others who identify as part of that group are tempted to go down the same road. In other words, one bad apple can rot the whole barrel."
 "But in the wrong context—that is, in a company with bad hiring practices, perverse incentives, or toxic leadership—psychological safety can be a recipe for disaster. It’s too soon to say what’s at the heart of the Wells Fargo crisis. But it is clear that a climate that helps teams do their best work isn’t enough to cure all ethical ills"
-
