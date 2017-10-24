@@ -7,7 +7,7 @@
 - Psicological Safety
   - Definición
   - Preguntas y tertulia
--   
+-    
 
 
 Intro
@@ -25,14 +25,18 @@ La inteligencia colectiva esta relacionada con:
   - Equilibrio en la toma de turnos de conversación - Equality in conversational turn-taking (Psychological Safety - Salud psicológica)
   - Diversidad de género
 
-
 - Test of empathy: Reading the mind in the eyes.
 
     ![test_empathy_1](slides/test_empathy_1.png)
 
 # (Tests para el turn taking no decir el objetivo, presentarles los disintos tests y ver como se comportan si hablan entre ellos a mitad de tests hacer comentario sobre lo que se esperaba y ver si mejoran en los tiempos. Habría que conometrar los tiempos de participación de cada uno.)
 
-- Tests for turn-taking (aquí)
+- Tests for turn-taking
+
+    ![test_matrix_reasoning](slides/test_matrix_reasoning2.png)
+
+    ![test_detection_letters_soup](slides/test_detection_letters_soup.png)
+
 
 
 ¿Psycological Safety?
