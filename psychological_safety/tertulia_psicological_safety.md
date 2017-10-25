@@ -72,25 +72,30 @@ Preguntas y tertulia
 - ¿Y excesiva?
 
 - ¿Que medidas se os ocurre para aumentarla?
+
   - Countinuos delivery = continuos colaboration -> Mejora de la seguridad psicológica
   - Los líderes podrían mejorar la seguridad psicológica a través de la gestión de la participación y la gestión de la inclusión. También una estructura clara de los miembros donde cada uno entiende su role en el equipo y fuertes relaciones entre ellos es importante para lograr esa seguridad.
   - Cada miembro del equipo debe de saber todo, de forma que pueda responder rápidamente y bien a las preguntas, es por ello que necesitan colaborar. Una persona no sabe todo.
   
 - ¿Qué puede disminuirla?
+
   - El fenómeno de la fatiga. La perfección es dificil de conseguir. Estamos en un mundo en constante cambio en el que nunca tenemos suficiente tiempo para terminar algo. Todo está en un constante estado de cambio, no se trata del "yo" si no del ecosistema entero (interdependencia) y siempre estamos en una batalla por combatir la insatisfacción. 
   - En todo este entorno la visión "insight" es el nuevo diferenciador, el nuevo diferenciador de mercado, conseguir esa visión de hacer las cosas en base a las interrelacciones entre miembros de un equipo.
   - Es bueno aumentar la interacción, pero si no gestionamos esto correctamente se puede producir la fatiga de la colaboración, la fatiga de la toma de decisiones y la fatiga en la empatía.
+
 - ¿Crees que es útil?
 
 - ¿Qué ventajas le ves?
- - Mejora la probabilidad de que las innovación sea satisfactoria y se consigan objetivos.
- - Mejora la capacidad de los miembros de aprender de sus errores.
- - Aumenta la innovación del equipo.
- - Mejora las ganas de los miebros de pertenecer a un equipo.
- - Hace que un equipo sea dinámico y mucho más creativo.
+
+  - Mejora la probabilidad de que las innovación sea satisfactoria y se consigan objetivos.
+  - Mejora la capacidad de los miembros de aprender de sus errores.
+  - Aumenta la innovación del equipo.
+  - Mejora las ganas de los miebros de pertenecer a un equipo.
+  - Hace que un equipo sea dinámico y mucho más creativo.
  
 - ¿Qué desventajas le ves?
- - Google hizo ciertas investigaciones sobre cómo construir buenos equipos. Se concluyó que la seguridad psicológica es importante y hay que consegirla. En ocasinoes miembros con gran seguridad se sienten en el derecho de comportarse mal, ello puede hacer que el resto del equipo vaya en su mismo camino. Es por ello que un clima que ayuda a que los equipos hagan su mejor trabajo no tiene que ser la cura para todas las enfermedades no éticas o malos comportamientos, 
+
+  - Google hizo ciertas investigaciones sobre cómo construir buenos equipos. Se concluyó que la seguridad psicológica es importante y hay que consegirla. En ocasinoes miembros con gran seguridad se sienten en el derecho de comportarse mal, ello puede hacer que el resto del equipo vaya en su mismo camino. Es por ello que un clima que ayuda a que los equipos hagan su mejor trabajo no tiene que ser la cura para todas las enfermedades no éticas o malos comportamientos, 
 
 
 Desarrollar más la idea
