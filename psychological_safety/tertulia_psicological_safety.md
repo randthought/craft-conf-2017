@@ -7,6 +7,7 @@
 - Psicological Safety
   - Definición
   - Preguntas y tertulia
+  - Acciones y dinámica para obtenerlas
 
 
 Intro
@@ -98,5 +99,11 @@ Preguntas y tertulia: consecuencias
 
 Preguntas y tertulia: evaluación
 --------------------------------
-- ¿Crees que tienen suficiente seguridad piscológica los equipos?
+- ¿Crees que tienen seguridad piscológica los equipos?
 - ¿Crees que con la seguridad piscológica basta? -Choques entre equipos-
+
+
+Acciones y dinámica para conseguirlas
+-------------------------------------
+Sabemos qué es la seguridad psicológica y cómo afecta a los equipos. Durante las pruebas hemos tomado ciertas métricas para determinar si la seguridad psicológica está presente.
+Vamos a proponer una dinámica para llegar a conclusiones de cómo podemos detectar y medir, hacer seguimiento y acciones concretas para conseguir la seguridad psicológica en los equipos.
